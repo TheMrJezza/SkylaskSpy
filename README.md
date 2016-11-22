@@ -1,2 +1,2 @@
 # SkylaskSpy
-This is the Source for SkylaskSpy v3.0 Bukkit Plugin.
+This is the Source for the SkylaskSpy v3.0 Bukkit Plugin.
