@@ -1,0 +1,11 @@
+NewSpy: "&cSpy: You are now spying on %PLAYER%."
+UnSpy: "&cSpy: You are no longer spying on %PLAYER%."
+SpyServerOn: "&cSpy: You are now spying on the whole server."
+SpyServerOff: "&cSpy: You are no longer spying on the whole server."
+CantSpySelf: "&cSpy: You cannot spy on yourself."
+PlayerOnly: "&cYou cannot do that from the console."
+NoPerm: "&4You do not have permission to do that."
+SpyMessage: "&c&l(!) &r&c%PLAYER% &c- &c%COMMAND% &c- &c%MESSAGE%"
+Help: "&aSpy Help:\n - &r/spy : &2Toggle spying on the whole server.\n &a- &r/spy <Player> : &2Toggle spying on a player.\n &a- &r/spy help : &2Display this help page.\n &a- &r/spylist : &2Shows a list of everyone you are currently spying on."
+# The Help message cannot be broken up into multiple lines in the Language.yml because YAML (.yml) doesn't support it.
+# To write on a new line use \n.

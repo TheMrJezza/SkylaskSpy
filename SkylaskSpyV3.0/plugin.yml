@@ -1,0 +1,25 @@
+name: SkylaskSpy
+main: au.TheMrJezza.SkylaskSpy.Main
+version: 3.0
+author: TheMrJezza
+SoftDepend: [Essentials]
+commands:
+    spy:
+        aliases: [socialspy, social]
+        usage: /<command> [Help/Player]
+    spylist:
+        aliases: [spied, spyed, spying]
+        usage: /<command>
+permissions:
+    skylaskspy.spyserver:
+        default: op
+        description: Allows the player to spy on the whole server.
+    skylaskspy.spyplayer:
+        default: op
+        description: Allows the player to spy on a certain player.
+    skylaskspy.spylist:
+        default: op
+        description: Allows the player to view the spylist.
+    skylaskspy.help:
+        default: op
+        description: Allows the player to view the help menu.

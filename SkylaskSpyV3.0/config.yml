@@ -1,0 +1,22 @@
+Single:
+  - /fly
+  - /warp
+  - /home
+  - /spawn
+  - /msg
+  - /tell
+  - /t
+  - /w
+  - /whisper
+  - /m
+  - /reply
+  - /r
+Whole:
+  - /msg
+  - /tell
+  - /t
+  - /w
+  - /whisper
+  - /m
+  - /reply
+  - /r
